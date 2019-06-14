@@ -4,19 +4,30 @@
 #define TRUE 1
 #define FALSE 0
 
-void avoid_object();
+int avoid_object();
 int going_to_hit_something;
 
 int main()
 {
-	int car = 1;
-	int on = 1;
+	int car = TRUE;
+	int car_on = TRUE;
 	while(car == on)
 	{
 		if (going_to_hit_something == TRUE)
 		{
-			avoid_object();
+			if (avoid_object())
+			{
+				sleep(1);
+			}
+			//update on car crash status
+			else
+			{
+				car_on = FALSE;
+				car = FALSE;
+			}
 		}
+
 	}
 	return 0;
 } 	
+
