@@ -1,0 +1,87 @@
+commit d13cf08502bfdd389a227872a7d5aa4dbfb1df67 (HEAD -> master, origin/master, origin/HEAD)
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Tue Jun 18 20:39:33 2019 -0600
+
+    text file of merge conflict
+
+commit 7fdf00bdc1c52751c280395e51cc84eceb3b9ba7
+Merge: be82c10 bd4f476
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Tue Jun 18 20:36:39 2019 -0600
+
+    conflict resolved
+
+commit be82c1035cc7f1044e94b1ff5f8f933d9984904c
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Tue Jun 18 20:10:22 2019 -0600
+
+    step 24
+
+commit bd4f476ef717f51d92c605120554ca4e8942bc58
+Author: Kristin Kernler <kristinkernler@gmail.com>
+Date:   Tue Jun 18 20:01:08 2019 -0600
+
+    added my name to README - Kristin
+
+commit b563ed738465a5df27a305c86688cc12283107ad
+Merge: 179a0c9 297aaeb
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Fri Jun 14 11:27:58 2019 -0600
+
+    Merge branch 'testing-new-files'
+
+commit 297aaeb9148f6db8067c6f757f19371c1bf6855d
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Fri Jun 14 11:24:59 2019 -0600
+
+    added crash conditions
+
+commit 179a0c98c276541a67cc54929e85f5aa394182f9
+Merge: 0f3e1d7 c03a436
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Fri Jun 14 11:13:57 2019 -0600
+
+    Merge branch 'testing-new-files'
+
+commit 0f3e1d7ac232af81eed41fb2636479c282ea7ada
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Fri Jun 14 10:52:33 2019 -0600
+
+    added 2 quotes
+
+commit c03a4365ba97d17b3352ee21fbc4ddc29ed27c9a
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Fri Jun 14 10:47:13 2019 -0600
+
+    hiku
+
+commit 57398315d39b3465e1aa6d86415ee060e97e28ca
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Fri Jun 14 10:28:38 2019 -0600
+
+    problem solved
+
+commit 158dbc2952e945e753c03a2c1f2c2ec4dbae809b
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Fri Jun 14 08:56:21 2019 -0600
+
+    added personal feelings about toby
+
+commit 5a82836ac1ed3d65d73ae4f1fdcab525353f32e2 (tag: v1)
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Thu Jun 13 20:49:32 2019 -0600
+
+    README.md
+
+commit 4264c8c56f36ce7ca1a287ab41b01fc69138723a
+Author: Carter Reid <carter.c.reid@gmail.com>
+Date:   Thu Jun 13 20:30:00 2019 -0600
+
+    add 2 files
+
+commit 1e978de828214d0ea949b0d9185dc846473f00ea
+Author: Cartercreid <38230387+Cartercreid@users.noreply.github.com>
+Date:   Thu Jun 13 19:57:16 2019 -0600
+
+    Initial commit
+
