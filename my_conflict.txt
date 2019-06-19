@@ -1,0 +1,15 @@
+diff --cc README.md
+index e9f97ec,2c2dd6a..0000000
+--- a/README.md
++++ b/README.md
+@@@ -3,4 -3,4 +3,8 @@@ Version Contro
+  Carter Reid
+  3308 lab 4
+  
+++<<<<<<< HEAD
+ +This might cause a merge conflict
+++=======
++ Partner: Kristin Kernler
+++>>>>>>> bd4f476ef717f51d92c605120554ca4e8942bc58
+user@cu-cs-vm:~/Documents/3308-git/3308-lab-4$ sudo gedit README.md 
+
